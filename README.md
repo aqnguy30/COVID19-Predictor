@@ -1,2 +1,2 @@
 # COVID19-Predictor
-Coronavirus (COVID-19) Prediction using Modified SIR Model
+Coronavirus (COVID-19) Predictor using Modified SIR Model
